@@ -1,0 +1,19 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Temporary files
+tempCodeRunnerFile.py
+
+# Testing cache
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example

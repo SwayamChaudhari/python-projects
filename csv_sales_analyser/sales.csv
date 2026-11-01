@@ -1,0 +1,4 @@
+transaction_id,date,product,quantity,unit_price
+21,2026-10-30,keyboard,2,500
+22,2026-10-29,mouse,10,200
+303,2026-11-1,cake,1,500
